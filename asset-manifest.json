@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rosa/static/css/main.4ae4bfcb.css",
-    "main.js": "/rosa/static/js/main.3c54daf8.js",
+    "main.js": "/rosa/static/js/main.2a896722.js",
     "static/media/musica.mp3": "/rosa/static/media/musica.1e80c9dd6b069c9c1607.mp3",
     "index.html": "/rosa/index.html",
     "main.4ae4bfcb.css.map": "/rosa/static/css/main.4ae4bfcb.css.map",
-    "main.3c54daf8.js.map": "/rosa/static/js/main.3c54daf8.js.map"
+    "main.2a896722.js.map": "/rosa/static/js/main.2a896722.js.map"
   },
   "entrypoints": [
     "static/css/main.4ae4bfcb.css",
-    "static/js/main.3c54daf8.js"
+    "static/js/main.2a896722.js"
   ]
 }
