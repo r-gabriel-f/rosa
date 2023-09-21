@@ -1,8 +1,13 @@
 import React from "react";
-import "../components/Girasol.css"
+import ReactAudioPlayer from "react-audio-player";
+import "../components/Girasol.css";
+import musica from "../assets/musica.mp3";
 export const Girasol = () => {
   return (
     <>
+      <div>
+        <ReactAudioPlayer src={musica} autoPlay loop />
+      </div>
       <div className="sunflower">
         <div className="flower_wrapper">
           <div className="flower_stem"></div>
