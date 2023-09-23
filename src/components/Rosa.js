@@ -6,7 +6,7 @@ export const Rosa = () => {
   return (
     <div className="back">
       <div className="bday">
-        No pense equivicarme en ti<br></br>
+        No pense equivocarme en ti<br></br>
         Carmen
       </div>
       <div className="heart"></div>
