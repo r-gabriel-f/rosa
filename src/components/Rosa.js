@@ -7,7 +7,7 @@ export const Rosa = () => {
     <div className="back">
       <div className="bday">
         Te Quiero Mucho ♥<br></br>
-        Madai Alejandra Monrroy Vega 
+        Madai Alejandra Monrroy Vega <br></br>
         Atte: Robert Gabriel Flores
       </div>
       <div className="heart"></div>
